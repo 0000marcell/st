@@ -1,4 +1,9 @@
-st
+# My ST(simple terminal) Build
+
+Super lighweight and fast
+
+## Instalation
+clone and ```make clean install```
 
 ## patches
 * alpha
@@ -52,12 +57,7 @@ ctrl+c in vim copy to clipboard
 to copy from the terminal output use vim-browse, yank to copy to clipboard
 alt+shift+v paste on the terminal from the clipboard
 
-
-
-st - simple terminal
---------------------
-st is a simple terminal emulator for X which sucks less.
-
+## Extra info
 
 Requirements
 ------------
